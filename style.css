@@ -68,4 +68,15 @@ margin: auto;
 
 body{
     background-color: cyan;
+
+}
+
+h1{
+    font-family: 'Macondo', cursive;
+    text-align: center;
+    text-shadow: 10px 2px 20px rgba(0, 0, 0, 0.479);
+    color: rgb(56, 61, 51);
+    font-size: 1000%;
+   
+    
 }
